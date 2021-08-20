@@ -1,0 +1,14 @@
+{
+  "name": "printname",
+  "version": "1.0.0",
+  "description": "app to print my Name",
+  "main": "printName.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajiboye Oyerinde",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
